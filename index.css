@@ -1,0 +1,70 @@
+
+nav {
+    height: 50px;
+    background-color: white;
+    display:inline-block;
+  }
+
+#logo {
+  width: 200px;
+  height: 120.48px;
+  /*left: 92px;
+  top:80px;*/
+  float:left;
+
+}
+  h1 {
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 74px;
+  }
+  .main-nav{
+    padding: 15px;
+    float:right;
+  }
+
+  .left{
+    background-color:#274782;
+    float: left;
+    width: 720px;
+    height: 244px;
+    left: 0px;
+    top: 447px;
+  }
+.right{
+    background-color:#F3A774;
+    width: 720px;
+    height: 244px;
+    left: 720px;
+    top: 447px;
+   float:right;
+  }
+  .hero-text1 {
+    color:#F3A774;
+    float: left;
+    width: 272px;
+    height: 74px;
+    left: 215px;
+    top: 538px;
+  }
+
+  .hero-text2 {
+    color:#274782;
+    float: left;
+    width: 254px;
+    height: 74px;
+    left: 949px;
+    top: 538px;
+  }
+
+  .ellipseHero {
+    position: absolute;
+    width: 409px;
+    height: 409px;
+    left: 516px;
+    top: 246px;
+    background: url(pseudo\ me.png);
+    border: 9px solid #FFFFFF;
+  }
